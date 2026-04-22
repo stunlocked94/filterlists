@@ -1,0 +1,7 @@
+! Title: stunlocked94's main filter list
+! Version: 20260422.1
+! Expires: 12 hours
+! Description: Personal preference list of blocked sites
+! Homepage: https://github.com/stunlocked94/filterlists
+||stadt-bremerhaven.de^
+||caschys.blog^
