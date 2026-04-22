@@ -3,5 +3,7 @@
 ! Expires: 12 hours
 ! Description: Personal preference list of blocked sites
 ! Homepage: https://github.com/stunlocked94/filterlists
+
+! Caschys Blog war mal cool. Inzwischen reaktionärer Schmutz mit schwurbeligen Autoren und AI-Bros
 ||stadt-bremerhaven.de^
 ||caschys.blog^
